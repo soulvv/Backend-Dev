@@ -1,0 +1,26 @@
+export let userData =[
+    {
+        id:1,
+        name:"amit",
+        age:24,
+        city:"pune"
+    },
+    {
+        id:2,
+        name:"rahul",
+        age:25,
+        city:"mumbai"
+    },
+    {
+        id:3,
+        name:"sachin",
+        age:26,
+        city:"delhi"
+    },
+    {
+        id:4,
+        name:"sourav",
+        age:27,
+        city:"kolkata"
+    }
+]
